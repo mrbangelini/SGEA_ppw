@@ -25,7 +25,7 @@ python manage.py runserver
 
 
 ## Protótipo
-Arquivos HTML em prototype/. Versão em PDF em docs/SGEA_prototipo_interface.pdf
+Arquivos HTML do protótipo da interface
 
 ## Autores
 Pedro Klein, Marcelo Angelini
